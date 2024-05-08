@@ -1,0 +1,4 @@
+Archvio para backend, cambiar si es necesario
+
+Conexion entre front, back, DB y algoritmo:
+
