@@ -1,4 +1,15 @@
 Archvio para backend, cambiar si es necesario
 
 Conexion entre front, back, DB y algoritmo:
+front:
+    Visualizar graficamente los paquetes (promedio)
+    Apartado de logs: muestra las flags al momento de hacer clustering
+    Recomendaciones
 
+    Necesita: 
+        Paquetes enviados y recibidos para grafica principal
+        si la grafica hace un cambio muy alto, o esta fuera de lo usual, arroja puerto
+        Se puede solicitar demas datos (ocultos)
+
+back:
+    
